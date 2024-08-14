@@ -1,7 +1,7 @@
 [![MasterHead](https://id.pinterest.com/pin/48695239707152438/)]
 <h1 align="center">Hi 👋, I'm Muhammad Anbiya</h1>
 <h3 align="center">I Learn Computer Science.</h3>
-<img align="right" alt="Coding" width="400" src="[https://id.pinterest.com/pin/576531189781037443/](https://tenor.com/id/view/yawn-snorlax-pokemon-gif-4656256?utm_source=share-button&utm_medium=Social&utm_content=pinterest)">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/htjYFNrNZzQAAAAC/yawn-snorlax.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadanbiya&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadanbiya" /> </p>
