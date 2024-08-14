@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot at @MangCoding**
+- 🌱 I’m currently learning **<a href="https://mangcoding.com/">@Mangcoding</a>
+**
 
 - 💬 Ask me about **Backend Development, Data Science and AI.**
 
